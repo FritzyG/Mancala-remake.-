@@ -1,4 +1,6 @@
-Mancala Remake
+                                                        Mancala Remake
+
+
 Overview
 Mancala Remake is a Java implementation of the classic Mancala board game built using Object-Oriented Programming (OOP) principles and Java Swing. The project recreates the traditional gameplay experience through an interactive graphical user interface while maintaining a modular and maintainable software architecture.
 
